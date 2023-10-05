@@ -1,7 +1,7 @@
 {
   "name": "inventory_backend",
   "version": "1.0.0",
-  "description": "A backend to monitor bike assemble",
+  "description": "A backend to maintain the products",
   "main": "index.js",
   "repository": "https://github.com/mithranjith/inventory.git",
   "author": "Mithran",
